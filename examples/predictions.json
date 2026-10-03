@@ -1,0 +1,10 @@
+{
+  "defective.jpeg": {
+    "predicted_class": "defective",
+    "confidence": 1.0
+  },
+  "normal.jpeg": {
+    "predicted_class": "normal",
+    "confidence": 0.9983
+  }
+}
